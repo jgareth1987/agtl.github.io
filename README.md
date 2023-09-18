@@ -7,7 +7,7 @@ echo '<meta charset="UTF-8">';
 echo '<meta name="viewport" content="width=device-width, initial-scale=1">';
 echo '<link rel="profile" href="https://gmpg.org/xfn/11">';
 echo '';
-echo '<title>FGTL &#8211; Fabbu Gems Testing Laboratory Bangalore India. &#8211; FGTL testing laboratory established in 2019. The FGTL is dedicated to providing Gems identification, Gem treatments, Identification Mines Report and Loose Diamond.</title>';
+echo '<title>FGTL &#8211; Aruby Gems Testing Laboratory Bangalore India. &#8211; FGTL testing laboratory established in 2019. The AGTL is dedicated to providing Gems identification, Gem treatments, Identification Mines Report and Loose Diamond.</title>';
 echo '<meta name='robots' content='max-image-preview:large' />';
 echo '<link rel='dns-prefetch' href='//fonts.googleapis.com' />';
 echo '<link rel='stylesheet' id='astra-theme-css-css' href='https://fgtl.co.in/wp-content/themes/astra/assets/css/minified/frontend.min.css' media='all' />';
